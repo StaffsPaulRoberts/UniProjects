@@ -37,6 +37,8 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="AppMain.cs" />
+    <Compile Include="Test.cs" />
+    <Compile Include="testBranchFile.cs" />
   </ItemGroup>
   <ItemGroup>
     <ShaderProgram Include="shaders\Simple.fcg" />
